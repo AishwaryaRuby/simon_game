@@ -1,2 +1,2 @@
 # simon_game
-The Simon Game
+The Simon Game.
